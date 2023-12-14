@@ -1,6 +1,4 @@
-                                                                                     SideGigs
-                                                                        Empowering Minds, Igniting Passion
-
+SideGigs - Empowering Minds, Igniting Passion
 
 Team Name - 201_Creators
 
