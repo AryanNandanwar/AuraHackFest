@@ -1,5 +1,11 @@
 SideGigs - Empowering Minds, Igniting Passion
 
+![image](https://github.com/AryanNandanwar/AuraHackFest/assets/116783328/b13da8d0-70d5-46ca-a7e7-faa5d7e39faf)
+
+![image](https://github.com/AryanNandanwar/AuraHackFest/assets/116783328/dab47624-084c-48e7-a7b7-9b6bdab7853a)
+
+
+
 Team Name - 201_Creators
 
 Team Captain - Pavan Thakur
